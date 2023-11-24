@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <address>
+        <city size="big">Kyiv</city>
+        <street>Vyshgorodska</street>
+        <house>103</house>
+    </address>
+    <address>
+        <city size="med">Vynica</city>
+        <street>Sheva</street>
+        <house>99</house>
+    </address>
+</catalog>
